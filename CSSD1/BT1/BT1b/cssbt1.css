@@ -1,0 +1,13 @@
+body{
+	font-size: 13px;
+	font-family: Tahoma;
+	color: white;
+}
+.body{
+	width: 180px;
+	background-color: #800080;
+	padding: 10px;
+}
+.body .hinh2{
+	margin-top:15px;
+}

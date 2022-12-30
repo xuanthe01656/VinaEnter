@@ -1,0 +1,43 @@
+body{
+	font-size: 13px;
+	font-family: arial;
+}
+table{
+	position: relative;
+	padding: 5px;
+	background: #F0F0F0;
+}
+table th{
+	width: 175px;
+	text-align: left;
+	vertical-align: top;
+}
+.img{
+	width:175px;
+	height: 110px;
+}
+img {
+	width: 165px;
+	height: 100px;
+	position: relative;
+	left: 5px;
+	top: 5px;
+
+}
+.img .h1 .h2{
+	width: 10px;
+	height: 10px;
+	position: absolute;
+}
+.text{
+	width: 175px;
+	height:45px;
+}
+a { 
+	color: #333;
+	opacity: 0.5;
+	position: relative;
+	left: 5px;
+	top: 5px;
+	right: 5px;
+}

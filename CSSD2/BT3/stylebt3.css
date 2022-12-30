@@ -1,0 +1,90 @@
+.container{
+	width: 680px;
+	font-family: Arial;
+	color: #a81f22;
+	margin:10px auto;
+}
+.container .header{
+	border-top: 0.5px dotted #A55D38;
+	margin-top: 8px;
+	margin-left: 8px;
+	width:680px;
+}
+.container .header ul{
+	width:680px;
+	padding-left: 32px;
+	list-style-image: url('images/bullet1.gif');
+}
+.container .header ul li{
+	padding-top: 10px;
+}
+.container .header ul li h1{
+	font-size: 19px;
+}
+.container .flower {
+	width:675px;
+}
+.container .flower ul{
+	width: 675px;
+	margin-left: 8px;
+}
+.container .flower ul li{
+	width: 675px;
+	height: 120px;
+	margin: 20px 0px;
+}
+.container .flower ul li .left{
+	width: 125px;
+	float: left;
+}
+.container .flower ul li .left a img{
+	width: 120px;
+	height: 110px;
+	padding: 2px;
+	border: 1px solid #BBBBBB;
+	border-radius: 5px;
+}
+.container .flower ul li .right{
+	position: relative;
+	width: 530px;
+	padding-left:10px;
+	border: 0.5px solid #F0F0F0;
+	border-radius: 5px;
+	float: right;
+	
+}
+.container .flower ul li .right h3{
+	padding-top: 5px;
+}
+.container .flower ul li .right h3 a{
+	text-decoration: none;
+	font-size: 16px;
+	color:#A81F22;
+	
+}
+.container .flower ul li .right .description{
+	font-size:14px;
+	color: black;
+	padding-top: 5px;
+}
+.container .flower ul li .right .more{
+	margin: 10px 0px;
+}
+.container .flower ul li .right .more a{
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: bold;
+	color: white;
+	background-color: #961B1E;
+	padding: 3px 10px;
+	border: 0.5px solid #961B1E;
+	border-radius: 5px;
+	position: relative;
+	left: 440px;
+}
+.clr{
+	border-bottom: 0.5px dotted #A55D38;
+	padding-top: 10px;
+	clear: both;
+}
+
