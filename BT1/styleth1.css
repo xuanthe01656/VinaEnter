@@ -1,0 +1,109 @@
+.wrapper{
+	width: 800px;
+	margin: 0 auto;
+	font-family: Arial;
+}
+.wrapper .main .headerMain{
+	background-color: black;
+	width: 800px;
+	font-size: 16px;
+	color: white;
+}
+.wrapper .main .headerMain ul{
+	width: 800px;
+	margin-left:20px;
+	padding: 20px 0px;
+}
+.wrapper .main .headerMain ul li{
+	
+}
+.wrapper .main .headerMain ul li .left1{
+	background-image: url('images/bullet.jpg');
+	background-repeat: no-repeat;
+	background-position: left center;
+	text-align: left center;
+	width: 135px;
+	float: left;
+}
+.wrapper .main .headerMain ul li .left1 a{
+	padding-left: 20px;
+	font-size:16px;
+	color: white;
+	text-decoration: none;
+}
+
+.wrapper .main .headerMain ul li .right1{
+	background-image: url('images/bullet.jpg');
+	background-repeat: no-repeat;
+	background-position: left center;
+	width: 665px;
+	float: right;
+}
+.wrapper .main .headerMain ul li .right1 a{
+	padding-left:20px;
+	color: white;
+	text-decoration: none;
+}
+.wrapper .main .bodyMain{}
+.wrapper .main .bodyMain ul{}
+.wrapper .main .bodyMain ul li{
+	margin: 10px 0px 5px 0px;
+}
+.wrapper .main .bodyMain ul li .left2{
+	background-color: #EDEDED;
+	width:260px;
+	float: left;
+}
+.wrapper .main .bodyMain ul li .left2 a{
+	font-size: 13px;
+	padding-top: 20px;
+	color: black;
+	text-decoration: none;
+}
+.wrapper .main .bodyMain ul li .right2 h3{
+	font-size:14px;
+	margin: 0px 40px;
+	padding: 30px 0px 5px 0px;
+	border-bottom: 0.5px dotted gray;
+}
+.wrapper .main .bodyMain ul li .left2 ul{
+	margin-left: 20px;
+	padding: 10px 10px;
+	list-style: disc;
+}
+.wrapper .main .bodyMain ul li .left2 h3{
+	font-size:14px;
+	margin: 0px 20px;
+	padding: 30px 0px 5px 0px;
+	border-bottom: 0.5px dotted gray;
+}
+.wrapper .main .bodyMain ul li .right2{
+	width: 540px;
+	float: right;
+}
+.wrapper .main .bodyMain ul li .right2 p{
+	font-size:13px;
+	text-align: justify;
+	margin: 0px 30px;
+	padding: 10px 10px;
+	color:#C79F9A;
+}
+.wrapper .main .bodyMain ul li .right2 .box1{
+	line-height:1.2;
+}
+.wrapper .main .bodyMain ul li .right2 .box2{
+	line-height:1.2;
+}
+.wrapper .main .bodyMain ul li .right2 .box3{
+	line-height: 1.2;
+}
+.clr{
+	clear: both;
+}
+.wrapper .footer{
+	width:800px;
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding: 25px 0px;
+}
